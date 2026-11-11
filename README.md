@@ -21,3 +21,7 @@ tasks and track their completion status.
 - Automate testing and deployment.
 - Deploy to cloud infrastructure.
 - Implement monitoring.
+
+## Status
+
+Stage 2
